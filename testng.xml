@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true"
-          name="C:/Users/hp/IdeaProjects/UpdatedSeleniumFrameWork/src/test/java/Tests/VwoTests/PF/PF_LoginPage.java">
+          name="C:/Users/hp/IdeaProjects/FinalSeleniumFrameWork/src/test/java/Tests/VwoTests/PF/PF_LoginPage.java">
         <classes>
             <class name="Tests.VwoTests.PF.PF_LoginPage">
                 <methods>
